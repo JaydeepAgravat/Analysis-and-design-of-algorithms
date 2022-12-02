@@ -12,7 +12,7 @@
 
 ## NP
 
-- The class p consists of those problem that are solvable in **polynomial time** by **Non-deterministic algorithms**.
+- The class NP consists of those problem that are solvable in **polynomial time** by **Non-deterministic algorithms**.
 - The class NP consists of those problems that are "verifiable" in polynomial time. 
 - Examples of NP class problems are:
   1. Knapsack problem O(2^n/2)
